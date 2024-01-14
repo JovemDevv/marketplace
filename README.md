@@ -1,5 +1,5 @@
 # Social Media App
-Bem-vindo ao Social Media App! Este é um projeto de rede social inspirado no Instagram, com o front-end totalmente desenvolvido em React e Vite, utilizando também tecnologias como React Router, PropTypes e SVG.
+Bem-vindo ao Social Media App! Este é um projeto de rede social inspirado no Instagram, com o front-end totalmente desenvolvido em React, utilizando também tecnologias como React Router, PropTypes e SVG.
 
 ## Instalação
 Certifique-se de ter o Node.js instalado em seu sistema antes de prosseguir.
